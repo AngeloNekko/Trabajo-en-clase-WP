@@ -15,15 +15,15 @@
 <img src="<?php echo get_template_directory_uri() ?> /img/Angular_full_color_logo.svg.png" width="10%" height="5%" class="float-right md:float-left" alt="">
 <p>Puedo Programar en Angular, nivel medio</p>
 </div>
-<div class=" justify-center items-center">
+<div class=" justify-center items-center space-x-10 my-20">
 <img src="<?php echo get_template_directory_uri() ?> /img/1200px-PHP-logo.svg.png" width="10%" height="5%" class="float-right" class="float-right md:float-left" alt="">
 <p>Domino PHP en un nivel avanzado</p>
 </div>
-<div class=" justify-center items-center">
+<div class=" justify-center items-center space-x-10 my-20">
 <img src="<?php echo get_template_directory_uri() ?> /img/HTML.png" width="10%" height="5%" class="float-right md:float-left" alt="">
 <p>Utiizo el enmaquetado de HTML para el diseño web</p>
 </div>
-<div class=" justify-center items-center">
+<div class=" justify-center items-center space-x-10 my-20">
 <img src="<?php echo get_template_directory_uri() ?> /img/java.png" width="10%" height="5%"  class="float-right md:float-left" alt="">
 <p>Utilizo Tambien java y sus derivaciones de script en un nivel medio</p>
 </div>
